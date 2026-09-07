@@ -1,2 +1,2 @@
 # Harold
-usjr student
+github computer programming assignment 
